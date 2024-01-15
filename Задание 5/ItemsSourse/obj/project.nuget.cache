@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kD+YuhfMX9mP/0Rikbil42LYIsbd2cy5zRfKJi5pAmOiO2Okoa0CSFU0TDdGVho4MqrJMI4ICUVm3Qa4G8Y91w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\st310-11\\Desktop\\Угрюмова\\Задание 5\\ItemsSourse\\ItemsSourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st310-11\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\st310-11\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\st310-11\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
